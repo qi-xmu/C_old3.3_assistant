@@ -1,0 +1,28 @@
+Gpro, setwarnangs(False)
+SPIO, setup(channel, GPIO. IN, pull up down -GPIO. PUD UP)
+ce
+GPIO, add event detect(channel, GPIO. FALLIN
+开关闭合
+try
+if GPIO event detected(channel):
+while True
+Logging. info(f"succeed gpio start: 00(num)
+Main ocr()
+ai brint(f'succeed gp1o start: 00(num)")
+Print()
+num=i
+time. sleep(.5)#500毫秒的检別间隔
+以在
+中做其
+except Exception as e:
+ression alsa snd pcm hw params set-period size near(pcm,
+e
+prl
+main
+ression alsa_snd pcm hw params set-period size near(pcm
+ewe
+/hostapi/alsa/pa Linux_alsa, c., line: 924
+:/hostapi/alsa/pa linux alsa,c.1ine: 924
+Lne↓ uollelual
+Ve VNC Viewer ve
+6 B D110 workp。下載
